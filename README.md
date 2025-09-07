@@ -1,4 +1,4 @@
-# Frontend Mentor - Social links profile
+# Frontend Mentor - Four card feature section
 
 ![Design preview for the Four card feature section challenge coding challenge](./design/desktop-preview.jpg)
 
